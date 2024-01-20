@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Adeleke Adebowale J</h1>
 <h3 align="center">Devops|SRE|Cloud Engineer</h3>
 
+![image](https://github.com/debolek/debolek/assets/37187773/55dfd15f-fb16-4692-8fa3-ff9b21ab9ef2)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debolek&label=Profile%20views&color=0e75b6&style=flat" alt="debolek" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@debolek4dem](https://medium.com/@debolek4dem)
