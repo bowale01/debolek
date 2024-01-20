@@ -1,3 +1,5 @@
+- ![gitkraken-report-devops-tools-2020-rw](https://github.com/debolek/debolek/assets/37187773/ddef0d70-1cea-46b8-b7b8-4998315bc8a3)
+
 <h1 align="center">Hi 👋, I'm Adeleke Adebowale J</h1>
 <h3 align="center">Devops|SRE|Cloud Engineer</h3>
 
