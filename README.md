@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Adeleke Adebowale J</h1>
 <h3 align="center">Devops|SRE|Cloud Engineer</h3>
 
