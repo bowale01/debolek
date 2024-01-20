@@ -10,6 +10,8 @@
 - 📫 How to reach me **debolek4dem@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/](https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/)
+- ![gitkraken-report-devops-tools-2020-rw](https://github.com/debolek/debolek/assets/37187773/ddef0d70-1cea-46b8-b7b8-4998315bc8a3)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
