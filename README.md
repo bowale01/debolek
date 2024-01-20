@@ -2,8 +2,6 @@
 <h3 align="center">Devops|SRE|Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debolek&label=Profile%20views&color=0e75b6&style=flat" alt="debolek" /> </p>
-![7602 1513404277](https://github.com/debolek/debolek/assets/37187773/3222b888-e6a7-44ed-8386-307fa53ba710)
-
 
 - 📝 I regularly write articles on [https://medium.com/@debolek4dem](https://medium.com/@debolek4dem)
 
