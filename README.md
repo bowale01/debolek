@@ -2,7 +2,6 @@
 <h3 align="center">Devops|SRE|Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debolek&label=Profile%20views&color=0e75b6&style=flat" alt="debolek" /> </p>
-![gitkraken-report-devops-tools-2020-rw](https://github.com/debolek/debolek/assets/37187773/3db38401-7f43-4e20-9c64-d9baaa7f31cd)
 
 
 - 📝 I regularly write articles on [https://medium.com/@debolek4dem](https://medium.com/@debolek4dem)
