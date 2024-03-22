@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debolek&label=Profile%20views&color=0e75b6&style=flat" alt="debolek" /> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@debolek4dem](https://medium.com/@debolek4dem)
+- 📝 I regularly answer Cloud related question on [(https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)](https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)
 
 - 💬 Ask me about **Devops|SRE|Cloud Engineer**
 
