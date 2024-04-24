@@ -5,7 +5,7 @@
 
 - 📝 I regularly answer Cloud related question on [(https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)](https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)
 
-- 💬 Ask me about **Devops|SRE|Cloud Engineer**
+- 💬 Ask me about **Devops|SRE|Cloud**
 
 - 📫 How to reach me **debolek4dem@gmail.com**
 
