@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **debolek4dem@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/](https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
