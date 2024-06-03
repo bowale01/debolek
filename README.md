@@ -7,16 +7,16 @@
 
 - 💬 Ask me about **Devops|SRE|Cloud**
 
-- 📫 How to reach me **debolek4dem@gmail.com**
+- 📫 How to reach me **linkedln**
 
-- 📄 Know about my experiences www.linkedin.com/in/adebowale-j-adeleke-bb514826/
+- 📄 Know about my experiences linkedln 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/" height="30" width="40" /></a>
 <a href= https://stackoverflow.com/users/12469191/debolek target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12469191/debolek" height="30" width="40" /></a>
 </p>
-<a href= https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/repost.aws.svg" alt=https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA height="30" width="40" /></a>
+<a href= repost target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/repost.aws.svg" alt=https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
