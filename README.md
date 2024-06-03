@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debolek&label=Profile%20views&color=0e75b6&style=flat" alt="debolek" /> </p>
 
-- 📝 I regularly answer Cloud related question on [(https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)](https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA)
+- 📝 I regularly answer Cloud related question on repost
 
 - 💬 Ask me about **Devops|SRE|Cloud**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href= https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/" height="30" width="40" /></a>
+<a href= target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adebowale-j-adeleke-bb514826/" height="30" width="40" /></a>
 <a href= https://stackoverflow.com/users/12469191/debolek target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12469191/debolek" height="30" width="40" /></a>
 </p>
 <a href= https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/repost.aws.svg" alt=https://repost.aws/community/users/USnbGpi4R9Rt24l2EcEd3LpA height="30" width="40" /></a>
